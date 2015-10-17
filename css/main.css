@@ -107,7 +107,11 @@ hr {
 .col-6 {
 	display: inline-block;
 	color: gray;
+	text-align: center;
+	margin: 40px 12px 25px 12px;
+	padding: 20px 20px 20px 20px;
 }
 .col-6:hover {
 	color: white;
+	background-color: navy;
 }
